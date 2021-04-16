@@ -20,7 +20,7 @@ Many further considerations but can also extend to many areas in education + cry
 2. If 3/3 you can mint a QUIZ token
 3. Forever have a QUIZ NFT token certificate!
 
-[Netlify Site]
+[Netlify Site](https://quizeth.netlify.app/)
 
 
 ## Process to building
